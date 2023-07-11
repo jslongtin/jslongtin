@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a student developper from Montreal ⚡
+I'm a developper from Montreal ⚡ <br>
+I speak french  and english :speech_balloon:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
